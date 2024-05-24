@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257991363500",
+    "project_id": "final-project-76a21",
+    "storage_bucket": "final-project-76a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257991363500:android:c9dc84c3fa5dda325f0809",
+        "android_client_info": {
+          "package_name": "com.example.oladocapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkrZ25dQVPvSHBxVvnmdKWAyaZOH_v1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
